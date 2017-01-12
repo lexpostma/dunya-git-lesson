@@ -1,2 +1,2 @@
 # dunya-git-lesson
-Dunya is teaching me Git
+Dunya is teaching  (Lex) Git
