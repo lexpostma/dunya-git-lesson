@@ -1,5 +1,5 @@
 # dunya-git-lesson
-Dunya is teaching  (Lex) Git
+Dunya is teaching me (Lex) Git
 
 ## Schedule
 
