@@ -4,5 +4,9 @@ html {
     font-family: sans-serif;
     line-height: 160%;
     padding: 1rem;
-    
+   
+}
+
+h1 {
+    color: orange;
 }
