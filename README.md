@@ -8,3 +8,4 @@ Dunya is teaching me (Lex) Git
 - 21-01-2017: ENV's
 - TBD       : Put lexpostma.me in git and GitHub
 - TBD       : Automatic deploying
+- TBD
