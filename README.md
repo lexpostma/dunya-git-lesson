@@ -7,7 +7,7 @@ Dunya is teaching me (Lex) Git
 - ~~21-01-2017: Advanced git~~
 - ~~21-01-2017: ENV's~~
 - ~~21-01-2017: Put lexpostma.me in git and GitHub~~
-- 21-01-2017: Automatic deploying
+- ~~21-01-2017: Automatic deploying~~
 - TBD       : Double check escaping queries
 - TBD       : Downsize repo, add resources (images and videos) to database instead of directory
 - TBD       : Questions?
