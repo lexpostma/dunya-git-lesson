@@ -6,5 +6,5 @@ Dunya is teaching me (Lex) Git
 - 12-01-2017: Intro to git
 - 21-01-2017: Advanced git
 - TBD       : ENV's
-- TBD       : Put Lex's site in git
+- TBD       : Put lexpostma.me in git and GitHub
 - TBD       : Automatic deploying
