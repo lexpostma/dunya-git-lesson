@@ -9,6 +9,8 @@ Dunya is teaching me (Lex) Git
 - ~~21-01-2017: Put lexpostma.me in git and GitHub~~
 - ~~21-01-2017: Automatic deploying~~
 - TBD       : Double check escaping queries
+~~- Cancelled       : Downsize repo, add resources (images and videos) to database instead of directory~~
 - TBD       : SSL and HTTPS
+- TBD       : Ruby
 - TBD       : Questions?
-- Cancelled       : Downsize repo, add resources (images and videos) to database instead of directory
+
