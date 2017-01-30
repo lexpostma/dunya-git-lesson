@@ -14,3 +14,21 @@ Dunya is teaching me (Lex) Git
 - TBD       : Ruby
 - TBD       : Questions?
 
+## Glossary
+
+- Git: commandline tool for versioning
+- Repo(sitory): your project
+- Master: main code base
+- Branch: 
+
+- Staging: choose what to commit
+- Commit: add to repo
+- Conflicts: duh
+- Stash: save code chunks temporarily without commiting
+
+- Checkout: temporary branch to go back in time
+- Fetch: see commits on remote
+- Pull: get the commits from remote
+- Push: push the commits to remote
+- Merge: merging the commits and branches
+- Rebase: base the base of the branch
